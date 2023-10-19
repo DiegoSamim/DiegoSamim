@@ -30,7 +30,7 @@ Nesse git tenhos meu projetos de estudo e aperfeiçoamento que englobam algumas 
   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-- Go: Curiosidade Devops de como trabalhar com servidores, redes, hospedagem etc.
+- Go: Curiosidade de como trabalhar com servidores, redes, hospedagem etc.
 - React: Framework muito bom para trabalhar com CSS e Javascript de uma forma mais prática.
 - NodeJs: Interesse em back-end e dominar por completo o desenvolvimento web
 
