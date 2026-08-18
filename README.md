@@ -78,6 +78,19 @@ Entre os conceitos explorados estão:
 
 ---
 
+### 🌪️ SACI
+
+Jogo mobile narrativo inspirado no **folclore brasileiro e na estética da literatura de cordel**, no qual o jogador explora diferentes regiões do Brasil, investiga acontecimentos misteriosos, conversa com personagens e reúne pistas para descobrir e catalogar criaturas folclóricas.
+
+A experiência é construída sobre uma **engine narrativa orientada a decisões**, em que escolhas, pistas encontradas e interpretações do jogador modificam o desenvolvimento das histórias e seus possíveis finais.
+
+O projeto também explora a integração entre **games e Inteligência Artificial**, com a evolução planejada para NPCs utilizando **IA Generativa**, capazes de produzir diálogos contextuais e reagir dinamicamente às ações do jogador.
+
+**Principais conceitos:**
+
+`React Native` `Expo` `TypeScript` `Narrative Design` `Generative AI` `Mobile Development`
+
+
 ### 🤖 IA Generativa
 
 Tenho estudado e desenvolvido soluções utilizando:
