@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://diegosamim.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/diego-samim-da-silva-460061253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
